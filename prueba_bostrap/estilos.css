@@ -1,0 +1,128 @@
+
+#mapa{
+  padding-top: 29px;
+
+}
+.contacto_f{
+    width: 450px;
+    height: 50px;
+    margin: 30px auto;
+    position: absolute;
+    padding-left: 10px;
+    
+}
+.contacto{
+    width: 550px;
+    height: 150px;
+    margin: 30px auto;
+    position: absolute;
+    padding-left: 10px;
+    
+}
+.contacto h1{
+    font-size: 50px;
+}
+.jumbotron h1{
+    padding-top: 0px;   
+    text-align: center;
+    font-size: 30px;    
+    
+    
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+font-size: 13px;
+}
+.card-img-top{
+    width: 250px;
+    height: 150px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+.container-fluid{
+    margin-top: 20px;
+}
+.col-xs-12 img{
+    
+display:block;
+margin:auto;
+}
+.fono{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#face{
+    width: 50px;
+    height: 50px;
+}
+#tw{
+      width: 50px;
+    height: 50px;
+}
+#insta{
+     width: 50px;
+    height: 50px; 
+}
+.footer{
+    height: 100px ;
+}
+#nosotros{
+    margin-top: 30px;
+    font-size: 20px;
+}
+#rn{
+    height: 100px ;
+    padding-left: 100px;
+}
+.noticias{
+    text-align: center;
+    background-color: aquamarine;
+
+}
+.carousel-item{
+    height:400px ;
+}
+#texto{
+    height: 80px;
+}
+#contacto{
+    margin-top: 20px;
+    padding-top: 10px;
+    width: 350px;
+}
+.fcontacto{
+    width: 150px;
+}
+.vision
+{
+    text-align: center;
+    margin-top: 50px;
+    background-color: aquamarine;
+   
+}
+.mision
+{
+    text-align: center;
+    margin-top: 50px;
+    background-color: aquamarine;
+}
+.text_mision{
+    font-size: 20px;
+}
+text_vision{
+   font-size: 20px;  
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    padding-left: 280px;
+}
+#mapa{
+    padding-left: 50px;
+}
+#img_not{
+    text-align: center;
+}
